@@ -43,7 +43,7 @@ header a{
 	font-size:16px;
 }
 header li{
-	float: right;
+	float: left;
 	display: inline;
 	padding: 0 20px 0 20px;
 }
